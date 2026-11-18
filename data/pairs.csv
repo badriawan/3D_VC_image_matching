@@ -1,0 +1,19 @@
+scene,pair_id,image1,image2,variation,level,notes
+indoor_textured,position_left,indoor_textured/reference.jpg,indoor_textured/position_left.jpg,position,left,Record actual camera displacement
+indoor_textured,position_right,indoor_textured/reference.jpg,indoor_textured/position_right.jpg,position,right,Record actual camera displacement
+indoor_textured,angle_roll,indoor_textured/reference.jpg,indoor_textured/angle_roll.jpg,angle,roll,Record actual roll angle
+indoor_textured,angle_oblique,indoor_textured/reference.jpg,indoor_textured/angle_oblique.jpg,angle,oblique,Record actual viewing angle
+indoor_textured,zoom_1,indoor_textured/reference.jpg,indoor_textured/zoom_1.jpg,zoom,level_1,Record actual zoom and lens used
+indoor_textured,zoom_2,indoor_textured/reference.jpg,indoor_textured/zoom_2.jpg,zoom,level_2,Record actual zoom and lens used
+outdoor_textured,position_left,outdoor_textured/reference.jpg,outdoor_textured/position_left.jpg,position,left,Record actual camera displacement
+outdoor_textured,position_right,outdoor_textured/reference.jpg,outdoor_textured/position_right.jpg,position,right,Record actual camera displacement
+outdoor_textured,angle_roll,outdoor_textured/reference.jpg,outdoor_textured/angle_roll.jpg,angle,roll,Record actual roll angle
+outdoor_textured,angle_oblique,outdoor_textured/reference.jpg,outdoor_textured/angle_oblique.jpg,angle,oblique,Record actual viewing angle
+outdoor_textured,zoom_1,outdoor_textured/reference.jpg,outdoor_textured/zoom_1.jpg,zoom,level_1,Record actual zoom and lens used
+outdoor_textured,zoom_2,outdoor_textured/reference.jpg,outdoor_textured/zoom_2.jpg,zoom,level_2,Record actual zoom and lens used
+low_texture,position_left,low_texture/reference.jpg,low_texture/position_left.jpg,position,left,Record actual camera displacement
+low_texture,position_right,low_texture/reference.jpg,low_texture/position_right.jpg,position,right,Record actual camera displacement
+low_texture,angle_roll,low_texture/reference.jpg,low_texture/angle_roll.jpg,angle,roll,Record actual roll angle
+low_texture,angle_oblique,low_texture/reference.jpg,low_texture/angle_oblique.jpg,angle,oblique,Record actual viewing angle
+low_texture,zoom_1,low_texture/reference.jpg,low_texture/zoom_1.jpg,zoom,level_1,Record actual zoom and lens used
+low_texture,zoom_2,low_texture/reference.jpg,low_texture/zoom_2.jpg,zoom,level_2,Record actual zoom and lens used
